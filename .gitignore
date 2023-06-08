@@ -1,0 +1,5 @@
+.idea
+.pytest_cache
+/DP5_tf/data/images/*
+!DP5_tf/data/images/cell0001.png
+!DP5_tf/data/images/.keep
